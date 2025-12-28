@@ -22,7 +22,6 @@ Telco Customer Churn Dataset (Kaggle)
 - Accuracy
 - Precision
 - Recall
-- F1-score
 - Confusion Matrix
 
 ## Key Results
